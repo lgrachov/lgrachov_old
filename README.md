@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <a href="https://www.buymeacoffee.com/levgrachov5"><img src="https://img.shields.io/static/v1?label=&message=Buy+Me+A+Coffee&color=blue&logo=buymeacoffee" alt="Buy Me A Coffee"></a> 
 
 Here are some ideas to get you started:
 
