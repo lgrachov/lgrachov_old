@@ -1,4 +1,4 @@
-### Hi there 👋 <a href="https://www.buymeacoffee.com/levgrachov5"><img src="https://img.shields.io/static/v1?label=&message=Buy+Me+A+Coffee&color=blue&logo=buymeacoffee" alt="Buy Me A Coffee"></a> 
+### Hi there 👋 <a href="https://www.buymeacoffee.com/levgrachov5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=levgrachov5&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 Here are some of my tasks that i'm making
 
