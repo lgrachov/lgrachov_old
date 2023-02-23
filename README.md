@@ -1,4 +1,4 @@
-### Hi there 👋 <a href="https://www.buymeacoffee.com/levgrachov5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=levgrachov5&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" style="height: 50;"/></a> ![dfhjsdfhsfhdskf](https://user-images.githubusercontent.com/78234184/220885492-a4a1f678-4e33-4248-ae9d-9689cc22a9c7.png) click [here](g.dev/leo-grachov) to open g-dev
+### Hi there 👋 <a href="https://www.buymeacoffee.com/levgrachov5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=levgrachov5&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" style="height: 50;"/></a>
 
 
 Here are some of my tasks that I'm making
