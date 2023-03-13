@@ -18,6 +18,6 @@ P.S: I have over 10+ fun facts
 
 <sub>⚡ Fun fact: Podoa is named after a purple pear<sub/>
 
-[![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lgrachov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lgrachov&PAT_1=100000)](https://github.com/anuraghazra/github-readme-stats)
  
-![Leo Grachov's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgrachov&show_icons=true&theme=transparent)
+![Leo Grachov's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgrachov&show_icons=true&theme=transparent&PAT_1=100000)
