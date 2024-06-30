@@ -20,4 +20,4 @@
 ## About me
 I am a website developer from West London.
 ## Links
-[My blog](https://lgrachov.github.io)
+[My site](https://lgrachov.github.io)
