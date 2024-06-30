@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **any of my projects!**
 
-- 👨‍💻 All of my projects are available at [my profile](my profile)
+- 👨‍💻 All of my projects are available at [my profile](https://github.com/lgrachov)
 
 - 📝 I regularly write articles on [https://lgrachov.github.io/](https://lgrachov.github.io/)
 
