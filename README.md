@@ -1,1 +1,23 @@
-minecraft is fun
+# Hi there! I'm Lev Grachov!
+
+- 🔭 I’m currently working on **my ideas**
+
+- 🌱 I’m currently learning **TypeScript**
+
+- 👯 I’m looking to collaborate on [Vue](https://github.com/vuejs/core)
+
+- 🤝 I’m looking for help with **any of my projects!**
+
+- 👨‍💻 All of my projects are available at [my profile](my profile)
+
+- 📝 I regularly write articles on [https://lgrachov.github.io/](https://lgrachov.github.io/)
+
+- 💬 Ask me about **JavaScript, CSS, React, HTML and Ruby**
+
+- 📫 How to reach me **leo.grachov@gmail.com**
+
+- ⚡ Fun fact **I like making designs!**
+## About me
+I am a website developer from West London.
+## Links
+[My blog](https://lgrachov.github.io)
