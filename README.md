@@ -18,6 +18,6 @@
 
 - ⚡ Fun fact **I like making designs!**
 ## About me
-I am a website developer from West London.
+I am a website developer from West London, and I create simple tools and sites.
 ## Links
 [My site](https://lgrachov.github.io)
