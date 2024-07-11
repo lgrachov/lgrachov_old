@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **leo.grachov@gmail.com**
 
-- ⚡ Fun fact **I like making designs!**
+- ⚡ Fun fact **I like going outside!**
 ## About me
 I am a website developer from West London, and I create simple tools and sites.
 ## Links
