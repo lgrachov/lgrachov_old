@@ -14,10 +14,4 @@
 
 - 💬 Ask me about **JavaScript, CSS, React, HTML and Ruby**
 
-- 📫 How to reach me **leo.grachov@gmail.com**
-
 - ⚡ Fun fact **I like going outside!**
-## About me
-I am a website developer from West London, and I create simple tools and sites.
-## Links
-[My site](https://lgrachov.github.io)
